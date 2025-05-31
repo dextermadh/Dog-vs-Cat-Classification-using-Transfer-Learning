@@ -1,1 +1,5 @@
 kaggle.json
+*.zip
+cat_dog_photos/sampleSubmission.csv
+*.jpg
+data/sampleSubmission.csv
